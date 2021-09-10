@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @izzypatrick21
-- 👀 Interested - Data Science | Machine Learning, Control, Automation & Artificial Intelligence.
+- 👀 Interest - Data Science | Machine Learning, Control, Automation & Artificial Intelligence.
 - 📫 Skills -  CSS | JavaScript | React | Python | Django 
 - 🌱 I’m looking to collaborate on projects that would help improve my skills on the areas on interest listed above.
 - 📫 How to reach me ? Twitter - @ricks_jnr; Email - patrick21isaiah@gmail.com
