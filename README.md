@@ -2,7 +2,7 @@
 - 👀 Interest - Data Science | Machine Learning, Control, Automation & Artificial Intelligence.
 - 📫 Skills -  CSS | JavaScript | React | Python | Django | MatLab | Solidworks 
 - 🌱 I’m looking to collaborate on projects that would help improve my skills on the areas on interest listed above.
-- 📫 How to reach me ? Twitter - @_6ptk; Email - patrick21isaiah@gmail.com
+- 📫 How to reach me ? Email - patrick21isaiah@gmail.com
 
 <!----
 izzypatrick21/izzypatrick21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
