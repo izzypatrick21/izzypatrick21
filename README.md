@@ -3,7 +3,7 @@
 - 📫 Skills -  CSS | JavaScript | React | Python | Django | MatLab | Solidworks 
 - 🌱 Looking to collaborate on projects that would help improve my skills on the areas on interest listed above.
 
-<!-----
+<!----
 izzypatrick21/izzypatrick21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
------>
+---->
